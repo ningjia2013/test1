@@ -6,6 +6,7 @@ import android.view.Menu;
 
 public class MainActivity extends Activity {
 
+        private int curTime = 0;
     private boolean first = true;
 
 	@Override
